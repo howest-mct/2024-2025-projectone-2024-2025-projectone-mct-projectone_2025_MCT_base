@@ -6,7 +6,7 @@
   - [Terugzetten van de image ⏳](./1_Kickoff.md#terugzetten-van-de-image-)
   - [Pi koppelen](./1_Kickoff.md#pi-koppelen)
   - [Pi klaarmaken voor verder gebruik](./1_Kickoff.md#pi-klaarmaken-voor-verder-gebruik)
-- [⚠️ TODO: Classroom clonen](./1_Kickoff.md#%EF%B8%8F-todo-classroom-clonen)
+- [Classroom clonen](./1_Kickoff.md#classroom-clonen)
 - [⚠️ TODO: Demo project](./1_Kickoff.md#%EF%B8%8F-todo-demo-project)
   - [Aanmaken venv](./1_Kickoff.md#aanmaken-venv)
   - [Dependencies installeren](./1_Kickoff.md#dependencies-installeren)
@@ -54,7 +54,9 @@ Je kan dus een speciaal Micro SD kaartje maken om de firmware van uw RPi up te d
 
 ### Pi klaarmaken voor verder gebruik
 
-- Na het inloggen moet je erest nieuw wachtwoord instellen voor student gebruiker
+- _Na het inloggen moet je eerst nieuw wachtwoord instellen voor student gebruiker_
+- `ssh student@192.168.168.169` ; huidig wachtwoord _P@ssw0rd_ ; nieuw wachtwoord en bevestigen
+- log opnieuw in met nieuw wachtwoord
 - ⚠ REBOOT de Pi (Dit kan enkele minuten duren opnieuw)
 
 ---
@@ -64,7 +66,9 @@ Je kan dus een speciaal Micro SD kaartje maken om de firmware van uw RPi up te d
 
 ---
 
-## **⚠️ TODO: Classroom clonen**
+## **Classroom clonen**
+
+(reeds gedana of je hebt dit document niet)
 
 Accepteer de invite url: [CLASSROOM](https://classroom.github.com/a/3T1YfLdF)
 
