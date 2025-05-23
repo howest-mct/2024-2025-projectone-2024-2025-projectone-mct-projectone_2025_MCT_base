@@ -232,6 +232,8 @@ thread voor GPIO operaties
 
 - callback aanmaken die `DataRepository.update_status_lamp` aanroept
 
+> Door sio.emit aan te roepen via `asyncio.run_coroutine_threadsafe`
+
 ```python
 
 led_state = False  # globale staat bovenaan
