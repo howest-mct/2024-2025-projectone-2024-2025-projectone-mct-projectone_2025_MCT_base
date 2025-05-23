@@ -26,6 +26,8 @@
     - [⚠️ ZELF doen: Flask secret:](2_Configuration.md#%EF%B8%8F-zelf-doen-flask-secret)
     - [⚠️ ZELF te doen: app.py runnen:](2_Configuration.md#%EF%B8%8F-zelf-doen-apppy-runnen)
 
+- [VSCode](2_Configuration.md#VSCode)
+
 ---
 
 > ⚠️ OPGELET: alle bussen staan nog gedeactiveerd. Vergeet deze niet te activeren via Pi-config  
