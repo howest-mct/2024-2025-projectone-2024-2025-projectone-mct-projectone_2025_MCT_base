@@ -48,6 +48,7 @@ ENDPOINT = "/api/v1"  # Define the endpoint for the API
 # TODO: Add GPIO keep alive thread
 
 
+# TODO: Hernoem allesuit thread
 async def allesuit():
     print("[allesuit] Gestart. Alles uit!")
     DataRepository.update_status_alle_lampen(0)
