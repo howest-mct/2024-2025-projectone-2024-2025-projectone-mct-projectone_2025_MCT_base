@@ -1,19 +1,27 @@
 # Project One: Kickoff
 
+- [Pre-Installatie](./1_Kickoff.md#pre-installatie)
 - [Installatie](./1_Kickoff.md#installatie)
   - [Downloaden van de image ⏳](./1_Kickoff.md#downloaden-van-de-image-)
   - [Terugzetten van de image ⏳](./1_Kickoff.md#terugzetten-van-de-image-)
   - [Pi koppelen](./1_Kickoff.md#pi-koppelen)
   - [Pi klaarmaken voor verder gebruik](./1_Kickoff.md#pi-klaarmaken-voor-verder-gebruik)
 - [⚠️ TODO: Classroom clonen](./1_Kickoff.md#%EF%B8%8F-todo-classroom-clonen)
-- [⚠️ TODO: Demo project](./1_Kickoff.md#demo-project)
+- [⚠️ TODO: Demo project](./1_Kickoff.md#%EF%B8%8F-todo-demo-project)
   - [Aanmaken venv](./1_Kickoff.md#aanmaken-venv)
   - [Dependencies installeren](./1_Kickoff.md#dependencies-installeren)
   - [SQL importeren](./1_Kickoff.md#sql-importeren)
   - [Configuratie database](./1_Kickoff.md#configuratie-database)
-- [⚠️ TODO: GPIO integreren](./1_Kickoff.md#%EF%B8%8F-todo-gpio-integreren)
+- [⚠️ TODO: GPIO integreren](./1_Kickoff.md#%EF%B8%8F-todo-gpio)
 - [⚠️ TODO: Eigen database](./1_Kickoff.md#%EF%B8%8F-todo-eigen-database)
 - [OPGELET](./1_Kickoff.md#opgelet-eigen-project--venv--git)
+
+## Pre-Installatie: update RPi firmware
+
+_Use Raspberry Pi Imager to write an EEPROM update image to a spare SD card. Select Misc utility images under the Operating System tab._  
+(Zie: [rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom))
+
+Je kan dus een speciaal Micro SD kaartje maken om de firmware van uw RPi up te daten. Doe dit _voor_ je de start image hebt weggeschreven, of je zal de image opnieuw moeten wegschrijven.
 
 ## Installatie
 

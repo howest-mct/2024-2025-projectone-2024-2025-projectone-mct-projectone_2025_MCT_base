@@ -99,7 +99,7 @@ Wanneer je een **RuntimeError: Failed to add edge detection** error krijgt na he
 - Vervolgens remove test database and access? Kies `y`.
 - Tenslotte reload privilege databases: `y`
 
-- Password auth activeren voor root: `SET PASSWORD = PASSWORD('r00tP@ss');`
+- Password auth activeren voor root: `SET PASSWORD = PASSWORD('r00tP@ss');` (see [StackOverflow](https://stackoverflow.com/a/33511149))
 
 ---
 
@@ -112,12 +112,12 @@ Wanneer je een **RuntimeError: Failed to add edge detection** error krijgt na he
   - Kies bij Connection Method voor Standard TCP/IP over SSH
   - SSH Hostname: `192.168.168.169`
   - SSH Username: `student`
-  - SSH Password: `P@ssw0rd`  
+  - SSH Password: ~~P@ssw0rd~~ `uwEigenWachtwoord`  
     Sla dit indien mogelijk op.
   - MySQL Hostname: `127.0.0.1`
   - MySQL Server Port: `3306`
   - Username: `root`
-  - Password: `P@ssw0rd` Sla dit indien mogelijk op.
+  - Password: Sla dit indien mogelijk op.
 
 #### ⚠️ ZELF doen: **Visual Studio** Configureren:
 
@@ -131,7 +131,7 @@ Wanneer je een **RuntimeError: Failed to add edge detection** error krijgt na he
   Kies voor de optie _Remote-SSH: Connect To Host_
 - Kies de optie _192.168.168.169_
 - Er zal een nieuw window openen en het paswoord voor de User zal gevraagd worden.
-- Tik `P@ssw0rd` (of uw nieuw wachtwoord)
+- Tik ~~P@ssw0rd~~ `uwEigenWachtwoord`
 - Hierna zal Visual Studio Codede connectie openen en een aantal zaken installeren op de Pi.
   > Wees geduldig. De eerste keer duurt dit wat langer.
 
