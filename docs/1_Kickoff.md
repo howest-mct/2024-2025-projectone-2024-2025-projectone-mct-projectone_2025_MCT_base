@@ -18,7 +18,11 @@
 
 ---
 
-(Basic) checklist via [project1-mct-checklist.pages.dev](https://project1-mct-checklist.pages.dev/)
+## (Basic) checklist
+
+Via [project1-mct-checklist.pages.dev](https://project1-mct-checklist.pages.dev/)
+
+De todo's kunnen afgevinkt worden, dit wordt in localstorage opgeslagen (in uw eigen browser)
 
 ---
 
