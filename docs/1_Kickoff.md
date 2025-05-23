@@ -16,6 +16,12 @@
 - [⚠️ TODO: Eigen database](./1_Kickoff.md#%EF%B8%8F-todo-eigen-database)
 - [OPGELET](./1_Kickoff.md#opgelet-eigen-project--venv--git)
 
+---
+
+(Basic) checklist via [project1-mct-checklist.pages.dev](https://project1-mct-checklist.pages.dev/)
+
+---
+
 ## Pre-Installatie: update RPi firmware
 
 _Use Raspberry Pi Imager to write an EEPROM update image to a spare SD card. Select Misc utility images under the Operating System tab._  
