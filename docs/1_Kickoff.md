@@ -37,7 +37,7 @@ Je kan dus een speciaal Micro SD kaartje maken om de firmware van uw RPi up te d
 
 ### Downloaden van de image ⏳
 
-- Download _[de gezipte image](https://studenthowest-my.sharepoint.com/:u:/g/personal/pieter-jan_beeckman_howest_be/EThYO_NN0plKlwzLkIKa9lQBVUjAhoPKJ_hMGbUixfHRWg?e=TWnMHN)_ naar je lokale computer.
+- Download _[de gezipte image](https://studenthowest-my.sharepoint.com/:u:/g/personal/pieter-jan_beeckman_howest_be/IQAgDln3zlRISqIJFI-VKmfoAWP40Q-G0mbHid4Fr050h4Y?e=ACxvx9)_ naar je lokale computer.
 
 ### Terugzetten van de image ⏳
 
@@ -119,7 +119,7 @@ Het installeren van de nodige packages kan met het volgende commando:
 
 Open MySQLWorkbench en importeer het SQL-bestand.
 
-(user: `root` ww: `r00tP@ss` ; gebruik SSH tunnel)
+(user: `root` ww: `S3crET` ; gebruik SSH tunnel)
 
 ### Configuratie database
 
@@ -320,7 +320,7 @@ Zorg dat je via MySQL Workbench kan verbinden _en maak een nieuwe database_
 
 > **maak hiervan een screenshot**
 
-(user: `root` ww: `r00tP@ss` ; gebruik SSH tunnel)
+(user: `root` ww: `S3crET` ; gebruik SSH tunnel)
 
 zie [configuratie.md](./2_Configuration.md) voor meer details
 

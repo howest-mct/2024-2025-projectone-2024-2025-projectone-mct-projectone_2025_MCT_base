@@ -95,13 +95,13 @@ Wanneer je een **RuntimeError: Failed to add edge detection** error krijgt na he
 
 - `mysql_secure_installation` om de MariaDB beter te beveiligen
 - Eerst wordt er gevraagd om het huidige root paswoord in te geven voor MariaDB. Aangezien er nog geen is kan je hier gewoon op _Enter_ drukken.
-- Vervolgens kan je het paswoord wijzigen. Kies een paswoord dat je **zeker** kan onthouden! Standaard werd hier gekozen voor het wachtwoord _r00tP@ss_
+- Vervolgens kan je het paswoord wijzigen. Kies een paswoord dat je **zeker** kan onthouden! Standaard werd hier gekozen voor het wachtwoord _S3crET_
 - Een volgende stap is anonieme gebruikers verwijderen. Kies hier voor `y`
 - Verbied root om remote in te loggen. Kies hier voor `y`.
 - Vervolgens remove test database and access? Kies `y`.
 - Tenslotte reload privilege databases: `y`
 
-- Password auth activeren voor root: `SET PASSWORD = PASSWORD('r00tP@ss');` (see [StackOverflow](https://stackoverflow.com/a/33511149))
+- Password auth activeren voor root: `SET PASSWORD = PASSWORD('S3crET');` (see [StackOverflow](https://stackoverflow.com/a/33511149))
 
 ---
 
